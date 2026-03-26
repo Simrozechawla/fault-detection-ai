@@ -105,4 +105,4 @@ if st.button("Predict", key="predict_button"):
 # ============================
 
 st.markdown("---")
-st.caption("Built by Simroze Chawla | AI Engineer Project 🚀")
+st.caption("Built by Simroze Chawla")

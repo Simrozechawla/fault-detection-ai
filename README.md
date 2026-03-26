@@ -30,6 +30,14 @@ An end-to-end Machine Learning project that predicts machine failures using sens
   * Failure Detected
 * Displays confidence score
 
+## 📸 Demo
+
+### 🔹 Input Interface
+![Input UI](assets/input.png)
+
+### 🔹 Prediction Output
+![Output UI](assets/output.png)
+
 ## 🖥️ Run Locally
 
 ```bash
