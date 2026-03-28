@@ -1,15 +1,15 @@
-# 🔧 AI-Based Fault Detection System
+# AI-Based Fault Detection System
 
 An end-to-end Machine Learning project that predicts machine failures using sensor data.
 
-## 🚀 Features
+## Features
 
 * Predicts machine failure in real-time
 * Handles class imbalance using SMOTE
 * Streamlit-based interactive UI
 * Trained using Random Forest Classifier
 
-## 🧠 Model Details
+## Model Details
 
 * Algorithm: Random Forest
 * Dataset: AI4I 2020 Predictive Maintenance Dataset
@@ -22,7 +22,7 @@ An end-to-end Machine Learning project that predicts machine failures using sens
   * Tool Wear
   * Machine Type (L, M, H)
 
-## 📊 Output
+## Output
 
 * Predicts:
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python -m streamlit run app/streamlit_app.py
 ```
 
-## 📌 Project Highlights
+## Project Highlights
 
 * Solves real-world predictive maintenance problem
 * Handles imbalanced dataset
